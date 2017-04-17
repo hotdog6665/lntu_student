@@ -12,6 +12,8 @@
 		<input name="login" type="text" size="25" maxlength="30" value="Вася" /> <br />
 		Password: <br />
 		<input name="pd" type="password" size="25" maxlength="30" value="" /> <br />
+		Keyword: <br />
+		<input name="keyword" type="text" size="25" maxlength="30" value="" /> <br />
 		<input name="remember" type="checkbox" value="yes" /> Remember? <br />
 		<input type="submit" name="enter" value="Вход" />
 	</form>
